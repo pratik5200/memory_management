@@ -193,7 +193,6 @@ Run
 
 **_Pratik Jaisal_**
 
-**_Electronics and communication enginerring student_**
-
 ##
 ## ⭐ Star this repo if you find it useful!
+
