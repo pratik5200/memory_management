@@ -1,0 +1,10 @@
+# Compiled files
+*.o
+memsim
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
