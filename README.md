@@ -82,7 +82,6 @@ memory_management/
 
 ├──tests/
 
-└── docs/
 
 ## ⚙️ Build Instructions
 
@@ -195,4 +194,5 @@ Run
 
 ##
 ## ⭐ Star this repo if you find it useful!
+
 
