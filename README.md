@@ -82,6 +82,7 @@ memory_management/
 
 ├──tests/
 
+├── Final_Report.pdf
 
 ## ⚙️ Build Instructions
 
@@ -194,5 +195,6 @@ Run
 
 ##
 ## ⭐ Star this repo if you find it useful!
+
 
 
